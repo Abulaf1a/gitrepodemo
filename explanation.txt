@@ -1,0 +1,5 @@
+Forking - create a version of the git repo in your GitHub account (your remote repository)
+
+cloning - add the repo to your local working directory
+
+git push - pushes your local working directory to the remote repository
